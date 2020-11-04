@@ -1,5 +1,5 @@
 # SavannahVR
-The first virtual reality environment that I developed for my master's degree project in computer science (thesis). I can not put in the code because this environment is in partnership with health institutes and companies. This environment led to the acceptance of a scientific paper published at the BFAL 2020 conference: https://link.springer.com/chapter/10.1007/978-3-030-60735-7_12.
+The first virtual reality environment that I developed for my master's degree project in computer science (thesis). I can not put in the code since my project was in partnership with health institutes and companies. This environment led to the acceptance of a scientific paper published at the BFAL 2020 conference: https://link.springer.com/chapter/10.1007/978-3-030-60735-7_12.
 
 Savannah VR was developed at the Heron Laboratory of the Department of Computer Science and Operations Research of the University of Montreal using C# with Unity3D Virtual Savannah: An Effective Therapeutic and Relaxing Treatment 109 2017.1.4 engine. It is a therapeutic virtual experience designed to relax and unwind.
 
