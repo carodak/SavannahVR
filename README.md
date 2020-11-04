@@ -8,5 +8,5 @@ Participants follow an avatar walking through a savannah speaking in a soft and 
 ![alt text](https://github.com/carodak/SavannahVR/blob/main/overview.png)
 
 Note: My thesis project lasted about a year and a half and made me learn a lot about myself. I learned how to build my own structure and develop my planning skills. I validated my autonomy and my analytical skills. I also noticed my perfectionism, which sometimes led me to lose time and not be results-oriented enough. Since then, I learn every day to keep things simple, to "try" even if I do not have all the elements, and to make small prototypes. 
-I try to loosen my grip because, as the Buddha shakyamuni says, "All conditioned things are of a nature to decay-strive on untiringly".
+I try to loosen my grip because, as the Buddha shakyamuni says, "all conditioned things are of a nature to decay-strive on untiringly".
 
